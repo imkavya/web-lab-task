@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>task</title>
+<style>table, th, td {
+border: 1px solid black;
+}
+</style>
+</head><body>
+<p><h1>welcome</h1>
+<font style:"Halies">Vidhyavardaka collage of engineering</font><br>
+<font size:"40px"><strong>Department of CSE</font>
+</p>
+<p> <pre><font style:"italies">it is one of the Best. Am glad to be there in CSE dept....
+because we have very supportive lecturers</font></Pre></p>
+<hr>
+<img src="logo.JPG" alt="vidhyavardhaka">
+<ol>
+<li>Code club</li>
+<li>Toast master</li>
+<li>Wing</li></list>
+</ol>
+<ul>
+<li>Google develeper</li>
+<li>Wing</li>
+<li>code club</li></ul>
+<p style="background-color:purple; color:white;" > Dr B.Sadashive gowda</p><br>
+<p><del>NO</del> Classes till 30th September<br>
+                         <p><pre>          Developed by "Kavyashree BS"</pre></style></p><br>
+Subjects in 7th Semester<br>
+
+<table>
+<tr>
+    <th>subject_name</th>
+    <th>subject_code</th>
+
+  </tr>
+<tr>
+<td>Web tecnology and its applications</td>
+<td>17cs71</td>
+</tr>
+<tr>
+<td>Advanced Computer Architectures</td>
+<td>17cs72</td>
+</tr>
+<tr>
+<td>Machine Learning</td>
+<td>17cs73</td>
+</tr>
+<tr>
+<td>Cloud computing and its Applications</td>
+<td>17cs742</td>
+</tr>
+<tr>
+<td>Storage Area Networks</td>
+<td>17cs754</td>
+</tr>
+<tr>
+<td>Machine learning laboratory</td>
+<td>17csL76</td>
+</tr>
+<tr>
+<td>Web technology laboratory with mini project </td>
+<td>17csL77</td>
+</tr>
+<tr>
+<td>Project work phase 1 + project work seminar</td>
+<td>17csp78</td>
+</tr>
+</table>
+</body>
+</html>
